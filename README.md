@@ -1,3 +1,3 @@
 # terraform-aws-security_gr
-# dont run terraform init, plan or apply from this repo
-# this is remon module for vpc-security groups
+# dont run terraform init, plan, or apply from this repo
+# This is remote module for vpc-security groups

@@ -60,6 +60,6 @@ variable "security_groups" {
   }))
   default = {}
 }
-output "security_group_id" {
+output "my-security_gr_id" {
 value = {for k, v in aws_security_group.default: k => v.id}
 }
